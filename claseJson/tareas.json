@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "trabajar",
+        "estado": "terminada"
+
+    },
+
+    {
+        "titulo": "cursar",
+        "estado": "en progreso"
+    },
+
+    {
+        "titulo": "cenar",
+        "estado": "pendiente"
+    }
+]
